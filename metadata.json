@@ -1,0 +1,6 @@
+{
+  "name": "Diagnostic Laboratory System (MERN + ESP32)",
+  "description": "Full MERN Stack Diagnostic Lab Management System with ESP32 IoT cold storage monitoring, role-based access, patient testing, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
